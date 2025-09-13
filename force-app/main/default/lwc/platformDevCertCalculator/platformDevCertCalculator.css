@@ -1,0 +1,18 @@
+.resultsText{
+    font-weight: bold;
+    font-size: xx-large;
+
+}
+.scoreText{
+    color: red;
+    font-size: 18;
+}
+.resourceList{
+    text-align: left;
+    font-size: 16px;
+    padding-top: 10x;
+}
+.resourceLi {
+    font-weight: 600;
+    font-size: large;
+}
